@@ -19,8 +19,8 @@ The goal of this project is to predict housing prices using the datset's other c
 
 📂 Assignment_20_1
 │── 📜 README.md  # This file
-│── 📂 data        # Contains the dataset used for analysis
-│── 📂 notebooks   # Jupyter notebooks with EDA and model training
+│── housing.csv        # Contains the dataset used for analysis
+│── Assignment 20.1 Capstone Initial Report.ipynb   # Jupyter notebooks with EDA and model training
 
 
 ## Getting Started
